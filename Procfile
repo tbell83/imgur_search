@@ -1,1 +1,1 @@
-web: python imgur_search_api.py --log-file=-
+web: gunicorn imgur_search_api --log-file=-
