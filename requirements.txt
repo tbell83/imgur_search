@@ -1,3 +1,4 @@
+gunicorn==19.3.0
 Flask==0.10.1
 Flask-RESTful==0.3.4
 imgurpython==1.1.6
